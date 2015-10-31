@@ -3,12 +3,12 @@
 
 This is our git for texting for transportation. 
 
-
 ##Milap
 Main Thread Class (service calls and such)
 
 ##Lucas
 Get time between stops for MBTA and BU Shuttle 
+General data for MTBA and Shuttle
 
 ##Jenna
 Database stuff
