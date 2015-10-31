@@ -4,17 +4,17 @@
 This is our git for texting for transportation. 
 
 
-#Milap
+##Milap
 Main Thread Class (service calls and such)
 
-#Lucas
+##Lucas
 Get time between stops for MBTA and BU Shuttle 
 
-#Jenna
+##Jenna
 Database stuff
 
-#Karan
+##Karan
 Interpret Address 
 
-#TODO
+##TODO
 Transportation Failure thread
